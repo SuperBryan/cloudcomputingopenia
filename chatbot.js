@@ -1,4 +1,4 @@
-const apiKey = "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";
+const apiKey = "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";
 const engine = "text-davinci-002";
 const prompt = "What is the capital of France?";
 
